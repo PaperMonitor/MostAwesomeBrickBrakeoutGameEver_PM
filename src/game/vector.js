@@ -39,7 +39,7 @@ export default class Vector {
     return this.subtract(this.projectOn(normal).scaleBy(2))
   }
   
-
+  
   rotate(degrees) {
     const radians = toRadians(degrees)
     const cos = Math.cos(radians)
