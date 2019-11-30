@@ -38,6 +38,7 @@ export default class Vector {
   reflect(normal) {
     return this.subtract(this.projectOn(normal).scaleBy(2))
   }
+  
 
   rotate(degrees) {
     const radians = toRadians(degrees)
