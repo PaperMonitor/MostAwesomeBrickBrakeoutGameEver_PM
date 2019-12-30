@@ -1,8 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Most Awesome Brick Breakout Game Ever in reactJS
 
-
-sample.gif
-In the project directory, you can run:
-
+![Breakout game sample](https://github.com/PaperMonitor/MostAwesomeBrickBrakeoutGameEver_PM/blob/master/sample.gif)
